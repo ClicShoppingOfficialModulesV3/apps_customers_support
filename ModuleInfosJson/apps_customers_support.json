@@ -15,7 +15,7 @@
   "type_module":      "Fixe",
   "dependance":       "",
   "description":        "This app allow to manage the support with your customers, order or simple contact",
-  "image":            "ModuleInfosJson/customers_support.png",
+  "image":            "ModuleInfosJson/customer_support.png",
 
   "authors": [
     {
