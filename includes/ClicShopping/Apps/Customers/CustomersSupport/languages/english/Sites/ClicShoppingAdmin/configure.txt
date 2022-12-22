@@ -1,0 +1,4 @@
+heading_title =  Customers support
+module_gr_short_title = Customers support
+
+title_menu = Customers support

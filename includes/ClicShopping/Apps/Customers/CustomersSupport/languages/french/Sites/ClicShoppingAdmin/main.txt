@@ -1,0 +1,93 @@
+heading_title =  Support clients
+module_me_title =  Support clients
+module_me_short_title =  Support clients
+
+text_customers_support = Support clients
+text_configure =  configurer App Module
+
+text_intro = Cette app vous permet de gerer vos support clients en attente de validation. <br /><br />
+- Activer ce module et activer le module  support clients  localiser dans le menu Clients
+
+module_gr_introduction = Le processus d'installation installe la base de données et le menu
+
+button_install_title = Installer
+button_configure = Configurer
+button_save = Sauver
+button_dialog_uninstall =  Désinstaller
+button_uninstall =  Désinstaller
+button_delete = Supprimer
+button_cancel = Annuler
+button_insert =  Insérer
+button_back = Retour
+button_reset = Réinitialiser
+button_update = Mettre à jour
+button_archive = Achive
+button_customers_support = Support Clients
+button_send =  Envoyer
+button_spam = Spam
+
+dialog_uninstall_title = Désinstaller
+dialog_uninstall_body = Souhaitez-vous installer cette App ?
+dialog_uninstall_title = Désinstaller le module?
+dialog_uninstall_body = Etes vous sur de désinstaller ce module?
+
+alert_module_install_success = Le module a été installée.
+alert_module_uninstall_success = Le module a été désinstallée.
+alert_cfg_saved_success = les paramètres de configuration ont été mises à jour.
+
+text_result_page = Page {{listing_from}} sur {{listing_total}}
+text_display_number_of_link = Affiche <strong>{{listing_from}}</strong> à <strong>{{listing_to}}</strong> (sur <strong>{{listing_total}}</strong>)
+
+table_heading_ref = Id contact
+table_heading_department = département
+table_heading_date_added = Date d'ajout
+table_heading_action = Action
+table_heading_customers_name = Nom du client
+table_heading_customers_email = Email
+table_heading_customers_language = Langue
+table_heading_status = Statut de la demande
+table_heading_archive = Traitement Archivé
+entry_reviews = Réponse pour le client
+table_heading_user_name = Traité par
+table_heading_customers_response = Réponse
+table_heading_date_sending = Date envoyée
+table_heading_customers_id = Référence Client
+table_heading_spam = Spam
+
+title_review_general = Informations générales
+title_reviews_entry = Réponse au client
+
+subject_email =  {{store_name}}  : Reponse a votre requete
+
+text_info_message = <br />Nous restons à votre disposition pour toute information complémentaire. Veuillez ne pas répondre à cet email et passer par le formulaire de contact du site pour toute demande d'information.
+
+entry_contact_id = Id contact
+entry_customer_id = Référence client
+entry_department = Département
+entry_customers_name = Nom du client
+entry_email_subject = Sujet
+entry_date_added = Date d'envoi
+entry_customers_message = Message du client
+entry_archive = Message archivé
+entry_review = Réponse au client
+entry_status_message = Statut du message
+entry_status_message_not_realised = Message traité
+entry_status_message_realised = Message non traité
+entry_archive_yes = Oui
+entry_archive_no = non
+entry_customers_telephone = Telephone
+entry_id_customers = Id Client
+entry_date = Date
+
+tab_history = Historique
+tab_general = General
+
+table_heading_last_modified = Modifié
+icon_preview_comment = Prévisualiser la réponse
+text_info_delete_review_intro = Voulez vous vraiment effacer cette demande ?
+text_info_date_added = Date d'ajout
+text_info_last_modified = Dernière modification
+text_number_archive = Archives
+text_number_spam = Spam
+
+text_info_heading_delete_review = Effacer les demandes

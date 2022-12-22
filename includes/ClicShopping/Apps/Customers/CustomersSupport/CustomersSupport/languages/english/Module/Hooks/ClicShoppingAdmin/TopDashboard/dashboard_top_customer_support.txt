@@ -1,0 +1,2 @@
+text_number_support = Customers support
+text_view = - More informations

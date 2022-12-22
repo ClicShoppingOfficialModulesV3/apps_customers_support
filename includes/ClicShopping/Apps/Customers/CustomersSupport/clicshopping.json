@@ -1,0 +1,36 @@
+{
+ "title":	"CustomersSupport App",
+ "app": "CustomersSupport",
+ "vendor":"Customers",
+ "version":	"1.0.1",
+ "req_core_version":	"3.3",
+ "license":	"GPL-2",
+ "authors": [
+  {
+   "name": "ClicShopping",
+   "company":	"ClicShopping",
+   "email":	"admin@clicshopping.org",
+   "website":	"https://www.clicshopping.org"
+  }
+ ],
+  "modules": {
+   "Hooks": {
+    "ClicShoppingAdmin/StatsDashboard": {
+     "PageTabContent":	"Module\\Hooks\\ClicShoppingAdmin\\StatsDashboard\\PageTabContent"
+    },
+    "ClicShoppingAdmin/TopDashboard": {
+     "TopDashboard":"Module\\Hooks\\ClicShoppingAdmin\\TopDashboard\\CustomerSupport"
+    },
+    "Shop/Contact": {
+     "Process":	"Module\\Hooks\\Shop\\Contact\\Process",
+     "PreAction":	"Module\\Hooks\\Shop\\Contact\\PreAction"
+    },
+    "Shop/CreateGuest": {
+     "PreAction":	"Module\\Hooks\\Shop\\CreateGuest\\PreAction"
+    }
+   }
+  },
+ "routes": {
+  "ClicShoppingAdmin":	"Sites\\ClicShoppingAdmin\\Pages\\Home"
+ }
+}
